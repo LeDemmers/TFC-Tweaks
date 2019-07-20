@@ -48,7 +48,7 @@ public class Constants
 {
     public static final boolean DISABLE_LOADORDER = System.getProperties().containsKey("net.dries007.tfctweaks.loadorder.disable");
     public static final String MODID = "TFC-Tweaks";
-    public static final String TFC = "terrafirmacraft";
+    public static final String TFC = "terrafirmacraftplus";
     public static final Gson GSON = new GsonBuilder().disableHtmlEscaping().setPrettyPrinting().registerTypeHierarchyAdapter(WorldExplorer.class, new WorldExplorerJson()).create();
 
     private static final class WorldExplorerJson implements JsonSerializer<WorldExplorer>

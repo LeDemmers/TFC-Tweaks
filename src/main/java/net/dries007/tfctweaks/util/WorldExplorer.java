@@ -36,7 +36,7 @@
 
 package net.dries007.tfctweaks.util;
 
-import com.bioxx.tfc.api.TFCBlocks;
+import com.dunk.tfc.api.TFCBlocks;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSetMultimap;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -69,7 +69,7 @@ import java.util.ConcurrentModificationException;
 import java.util.List;
 import java.util.Set;
 
-import static com.bioxx.tfc.api.Constant.Global.STONE_FLUXINDEX;
+import static com.dunk.tfc.api.Constant.Global.STONE_FLUXINDEX;
 import static net.minecraft.util.EnumChatFormatting.*;
 
 /**

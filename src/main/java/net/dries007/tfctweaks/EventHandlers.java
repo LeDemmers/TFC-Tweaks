@@ -36,13 +36,13 @@
 
 package net.dries007.tfctweaks;
 
-import com.bioxx.tfc.Food.ItemFoodTFC;
-import com.bioxx.tfc.TileEntities.TEFirepit;
-import com.bioxx.tfc.api.Constant.Global;
-import com.bioxx.tfc.api.Food;
-import com.bioxx.tfc.api.TFCBlocks;
-import com.bioxx.tfc.api.TFCItems;
-import com.bioxx.tfc.api.Util.Helper;
+import com.dunk.tfc.Food.ItemFoodTFC;
+import com.dunk.tfc.TileEntities.TEFirepit;
+import com.dunk.tfc.api.Constant.Global;
+import com.dunk.tfc.api.Food;
+import com.dunk.tfc.api.TFCBlocks;
+import com.dunk.tfc.api.TFCItems;
+import com.dunk.tfc.api.Util.Helper;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.entity.item.EntityItem;
 import net.minecraft.entity.player.InventoryPlayer;

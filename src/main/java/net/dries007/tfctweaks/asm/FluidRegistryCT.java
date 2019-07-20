@@ -36,7 +36,7 @@
 
 package net.dries007.tfctweaks.asm;
 
-import com.bioxx.tfc.api.TFCFluids;
+import com.dunk.tfc.api.TFCFluids;
 import com.google.common.collect.BiMap;
 import cpw.mods.fml.common.FMLLog;
 import net.dries007.tfctweaks.util.FluidHacks;

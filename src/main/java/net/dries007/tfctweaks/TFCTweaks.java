@@ -46,7 +46,10 @@ import net.dries007.tfctweaks.asm.FluidContainerRegistryCT;
 import net.dries007.tfctweaks.asm.FluidRegistryCT;
 import net.dries007.tfctweaks.asm.TFCTweaksLoadingPlugin;
 import net.dries007.tfctweaks.cmd.CmdWorldExplorer;
-import net.dries007.tfctweaks.util.*;
+import net.dries007.tfctweaks.util.FluidHacks;
+import net.dries007.tfctweaks.util.Helper;
+import net.dries007.tfctweaks.util.OreDictionaryArmorDyeRecipe;
+import net.dries007.tfctweaks.util.WorldExplorer;
 import net.minecraft.item.crafting.CraftingManager;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.ChunkCoordinates;
@@ -60,9 +63,7 @@ import org.apache.logging.log4j.Logger;
 import java.io.File;
 import java.io.IOException;
 
-import static net.dries007.tfctweaks.util.Constants.DISABLE_LOADORDER;
-import static net.dries007.tfctweaks.util.Constants.MODID;
-import static net.dries007.tfctweaks.util.Constants.TFC;
+import static net.dries007.tfctweaks.util.Constants.*;
 import static net.minecraftforge.common.config.Configuration.CATEGORY_GENERAL;
 
 /**

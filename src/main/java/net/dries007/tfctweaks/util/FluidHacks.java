@@ -36,8 +36,8 @@
 
 package net.dries007.tfctweaks.util;
 
-import com.bioxx.tfc.api.TFCBlocks;
-import com.bioxx.tfc.api.TFCFluids;
+import com.dunk.tfc.api.TFCBlocks;
+import com.dunk.tfc.api.TFCFluids;
 import cpw.mods.fml.relauncher.ReflectionHelper;
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
