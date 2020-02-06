@@ -10,14 +10,4 @@ When using any other version, you are on your own. If the version of TFC does no
 
 This mod alters some of the mechanics of TFC to the point where you could say it changes game balance, but those features are disabled by default.
 
-Download
---------
-
-Download the normal (not -dev or -src) jar from [here](https://jenkins.dries007.net/job/TFC-Tweaks/).
-
-TFC forum post [here](http://terrafirmacraft.com/f/topic/8578-).
-
-Features
---------
-
-[See the forum post or the git commit log for an up to date list.](http://terrafirmacraft.com/f/topic/8578-tfc-07924-tfc-tweaks-unifies-water/)
+Port created for TFC+ by nuckable, forked by DEMMERS for the TFC+ Community Modpack
